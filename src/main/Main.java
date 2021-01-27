@@ -19,6 +19,5 @@ public class Main {
 		
 		System.out.println(stu1);
 		System.out.println(stu2);
-		System.out.println(stu3);
 	}
 }
