@@ -15,7 +15,6 @@ public class Main {
 	public static void main(String[] args){
 		Student stu1 = new Student("41824332", "Liyy");
 		Student stu2 = new Student("41824333", "Lizm");
-		Student stu3 = new Student("41824331", "Jids");
 		
 		System.out.println(stu1);
 		System.out.println(stu2);
